@@ -29,7 +29,7 @@ SpacesInSquareBrackets: false
 SpaceInEmptyParentheses: false
 
 Cpp11BracedListStyle: true
-Standard: Cpp20
+Standard: Latest
 
 SortIncludes: Never
 IncludeBlocks: Preserve
