@@ -4,7 +4,7 @@
 
 ## 适用场景
 
-- C++20 项目
+- C++ 和 Python 项目
 - 使用 CMake 作为主要构建系统
 - 常见开发环境包含 Ninja 或 Visual Studio
 - 仓库中包含少量 Python、shell、PowerShell 脚本
